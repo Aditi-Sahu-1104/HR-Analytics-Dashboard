@@ -2,7 +2,7 @@
 This Tableau dashboard provides insights into employee data to help HR teams make data-driven decisions. It includes key HR metrics such as attrition, department-wise distribution, and job satisfaction.
 ## 📸 Dashboard Preview
 
-![Dashboard Preview](<img width="1430" height="762" alt="HR Analytics Dashboard" src="https://github.com/user-attachments/assets/1a0ab699-433b-4b36-af9a-b1e634d5cf6c" />
+![Dashboard Preview](<HR Analytics Dashboard.png>
 )
 
 🔗 [Click here to view the interactive dashboard on Tableau Public](https://public.tableau.com/views/HRAnalyticsDashboard_17536267695630/HRAnalyticsdashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
