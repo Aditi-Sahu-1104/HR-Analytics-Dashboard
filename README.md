@@ -1,5 +1,5 @@
 # HR-Analytics-Dashboard
-This Tableau dashboard provides insights into employee data to help HR teams make data-driven decisions. It includes key HR metrics such as attrition, department-wise distribution, and job satisfaction.
+This Tableau dashboard provides insights into employee data to help HR teams make data-driven decisions. It includes key HR metrics such as attrition, department-wise distribution, and job satisfaction. Built a predictive model to identify employees at risk of attrition and integrated prediction scores into an existing Tableau dashboard to enable HR teams to proactively intervene. Final model: Logistic Regression (chosen for high recall and interpretability), with supporting analysis from SVC and XGBoost.
 ## 📸 Dashboard Preview
 
 ![Dashboard Preview](<HR Analytics Dashboard.png>
